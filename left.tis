@@ -1,0 +1,8 @@
+## Left Program
+mov 5 acc # my comment
+start: # another comment
+# funny comment
+sub 5#boring
+jez start   #comment  
+add: add 2
+jlz add

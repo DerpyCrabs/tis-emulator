@@ -1,0 +1,9 @@
+## 1-1
+mov 5 acc # my comment
+start: # another comment
+# funny comment
+add 1
+mov acc right
+mov down acc
+jmp start
+

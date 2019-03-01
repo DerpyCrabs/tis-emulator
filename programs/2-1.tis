@@ -1,0 +1,5 @@
+## 2-1
+mov right acc
+add 1
+add 1
+mov acc up
